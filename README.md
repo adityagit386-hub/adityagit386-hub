@@ -37,7 +37,7 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 ## 📂 Featured Projects
 
-### 🎬 Movie Recommendation VS Code Extension
+### 🎬 Movie Recommendation Browser Extension 
 A VS Code extension that recommends movies based on genre.
 
 ### 🍎 Fruit Disease Detection
