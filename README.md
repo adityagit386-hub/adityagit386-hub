@@ -83,12 +83,11 @@ Machine Learning project for detecting hate speech using NLP.
 
 <div align="center">
 
-## 🟡 LeetCode
+## 🏆 LeetCode Stats
 
-<a href="https://leetcode.com/u/aditya_wale/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap"/>
-</a>
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aditya_wale?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 <br><br>
 
 ## 🟢 HackerRank
