@@ -1,125 +1,72 @@
-<!-- Animated Header -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aditya%20Wale&fontSize=55&fontAlign=50&fontAlignY=38&color=0:0F2027,50:203A43,100:2C5364&fontColor=00F5FF&animation=fadeIn"/>
-</p>
+# 👋 Hi, I'm Aditya Wale
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-Hi, I'm Aditya Wale
-</h1>
+### 🤖 Emerging Machine Learning Engineer
 
-<h3 align="center">
-🤖 Emerging Machine Learning Engineer | Python Developer | AIML Student
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Emerging+Machine+Learning+Engineer;Python+Developer;Artificial+Intelligence+Learner;Data+Science+Enthusiast;Always+Learning+New+Things"/>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Emerging+Machine+Learning+Engineer;Python+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Data+Science+Explorer;Always+Learning+New+Things"/>
-
-</p>
+</div>
 
 ---
 
-# 🤖 Machine Learning
+## 🚀 About Me
+
+- 🎓 AIML Student
+- 🤖 Emerging Machine Learning Engineer
+- 💻 Python Developer
+- 🌱 Currently learning Machine Learning
+- 🇮🇳 India
+
+---
+
+## 💻 Skills
 
 <p align="center">
 
-<img width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,git"/>
 
 </p>
 
----
-
-# 👨‍💻 About Me
-
-```python
-class Aditya:
-
-    def __init__(self):
-        self.name = "Aditya Wale"
-        self.role = "Emerging ML Engineer"
-        self.language = ["Python","Java","C","C++"]
-        self.interests = [
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Data Science",
-            "Open Source"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-
-me = Aditya()
-```
-
----
-
-# 💻 Tech Stack
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,git"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityagit386-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityagit386-hub&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagit386-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagit386-hub&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=adityagit386-hub&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=adityagit386-hub&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagit386-hub&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityagit386-hub&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 💡 LeetCode
+## 💡 LeetCode
 
 <p align="center">
 
 <a href="https://leetcode.com/u/aditya_wale/">
 
-<img src="https://leetcard.jacoblin.cool/aditya_wale?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/aditya_wale?theme=dark&font=Baloo&ext=contest"/>
 
 </a>
 
@@ -127,19 +74,19 @@ me = Aditya()
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/aditya-wale-378620384/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
 <a href="mailto:waleaditya123@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 
 </a>
 
@@ -147,36 +94,16 @@ me = Aditya()
 
 <p align="center">
 
-📧 **waleaditya123@gmail.com**
+📧 waleaditya123@gmail.com
 
 </p>
 
 ---
 
-# 👀 Visitors
+## 👀 Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adityagit386-hub&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-# 🐍 Snake Animation
-
-> Requires GitHub Actions setup.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/adityagit386-hub/adityagit386-hub/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364&height=140"/>
+<img src="https://komarev.com/ghpvc/?username=adityagit386-hub&style=for-the-badge"/>
 
 </p>
