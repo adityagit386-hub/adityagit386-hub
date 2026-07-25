@@ -1,127 +1,107 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Aditya Wale
+</h1>
 
-# Hi 👋, I'm Aditya Wale
+<h3 align="center">
+Emerging Machine Learning Engineer from India 🇮🇳
+</h3>
 
-### 🚀 AI/ML Engineer | Python Developer | Full Stack Learner
-
-🎓 B.Tech Artificial Intelligence & Machine Learning Student  
-📍 India
-
-*"Turning ideas into intelligent solutions."*
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Emerging+Machine+Learning+Engineer;Python+Developer;Learning+Artificial+Intelligence;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 👨‍💻 About Me
+
+- 🎓 AIML B.Tech Student
+- 🤖 Emerging Machine Learning Engineer
+- 🌱 Currently learning Machine Learning & Data Science
+- 💡 Passionate about AI, Programming & Problem Solving
+- 🇮🇳 From Maharashtra, India
+
+---
+
+## 🚀 Skills
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-- 🎓 B.Tech Artificial Intelligence & Machine Learning Student
-- 🤖 AI/ML Engineer in the making
-- 💡 Passionate about Machine Learning, Deep Learning & Computer Vision
-- 🐍 Python Developer
-- 🌱 Currently learning AI, Data Science and Full Stack Development
-- 🚀 Building AI-powered applications and browser extensions
-- 🎯 Goal: Become an AI/ML Engineer and contribute to impactful projects
-
----
-
-# 🛠️ Tech Interests
-
-```text
-💻 Programming     → C | C++ | Java | Python | JavaScript
-🤖 AI/ML           → NumPy | Pandas | Scikit-Learn | TensorFlow | OpenCV
-🌐 Web Development → HTML | CSS | JavaScript | Flask | React | Node.js
-🗄 Database         → MySQL | MongoDB
-⚙️ Tools            → Git | GitHub | VS Code | Jupyter Notebook
-```
-
----
-
-# 🚀 Featured Projects
-
-### 🎬 Movie Recommendation Browser Extension
-AI-powered browser extension that recommends movies based on genre.
-
----
-
-### 🍎 Fruit Disease Detection
-CNN-based image classification system for detecting fruit diseases.
-
----
-
-### 💬 Hate Speech Detection
-Machine Learning project for detecting hate speech using NLP.
-
----
-
-# 📊 Coding Profiles
-
-<div align="center">
-
-## 🏆 LeetCode Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aditya_wale?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
-<br><br>
-
-## 🟢 HackerRank
-
-<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Visit_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<a href="https://github.com/adityagit386-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
 
 <a href="mailto:waleaditya123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-wale-378620384/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+## 👀 Profile Views
 
-### ⭐ "Code • Learn • Build • Repeat"
+<p align="center">
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="350">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+</p>
