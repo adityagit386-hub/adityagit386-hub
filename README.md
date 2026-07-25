@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  Hi, I'm Aditya Wale
+  Hi, I'm Aditya 
 </h1>
 
 <h3 align="center">
@@ -17,12 +17,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Emerging+Machine+Learning+Engineer;Python+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Data+Science+Explorer;Always+Learning+New+Things"/>
 </p>
 
----
-
-# 🤖 Machine Learning
 
 <p align="center">
-<img width="350" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+  <img width="450" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </p>
 
 ---
